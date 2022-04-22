@@ -3,7 +3,7 @@ So basically I f*cked up my main analysis VM. Therefor I am now backing this up 
 
 The Script works but is not usable out of the Box. I used it to extract several hundred Configs over the course of several weeks, so it was changed, reconfigured, recoded based on current needs. 
 
-It works using unpac.me do do the heavy lifting of unpacking samples, which comes with the drawback that x64 samples are currently not supported.
+It works using unpac.me to do the heavy lifting of unpacking samples, which comes with the drawback that x64 samples are currently not supported.
 Also get's Redline samples from Malware Bazaar based on yara rule. 
 Extracted Info can be added to a .csv file with headers:
 
