@@ -23,3 +23,5 @@ Huge shoutout to:
 
 Love you guys :) 
 
+Ps: Results of my extraction efforts can be found here:
+https://github.com/Gi7w0rm/MalwareConfigLists/blob/main/RedLine/RedLine_configs.csv
